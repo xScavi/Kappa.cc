@@ -1,1 +1,1 @@
-# Kappa.cc
+# Kappa
